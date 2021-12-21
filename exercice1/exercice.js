@@ -1,0 +1,3 @@
+window.$;
+
+$("div").remove();

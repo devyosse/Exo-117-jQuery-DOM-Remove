@@ -1,0 +1,3 @@
+window.$;
+
+$("p").remove(".test");
